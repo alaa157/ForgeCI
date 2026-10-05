@@ -1,0 +1,13 @@
+target/
+node_modules/
+.next/
+.env
+*.class
+*.jar
+*.log
+.idea/
+*.iml
+.DS_Store
+dist/
+coverage/
+.vscode/
